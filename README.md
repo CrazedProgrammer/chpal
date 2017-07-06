@@ -1,5 +1,6 @@
 # chpal
 Palette changer for ComputerCraft 1.8 and later 
+![](https://img.crzd.me/chpal.png)
 
 ## Usage
 `chpal <path>` Change palette to the palette in `path`.  
